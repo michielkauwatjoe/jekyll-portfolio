@@ -2,16 +2,8 @@
 	<div id="menucontent">
 	
 		<div id="menucontent1">
-			{% if page.artist.name == 'Michiel Kauw-A-Tjoe' %}
 			<div class="menuitem"><a href="{{ site.baseurl }}/"><h2>works</h2></a></div>
 			<div class="menuitem"><a href="{{ site.baseurl }}/about/"><h3>about</h3></a></div>
-			{% elsif page.menu == 'works' %}
-			<div class="menuitem"><a href="{{ site.baseurl }}/"><h2>works</h2></a></div>
-			<div class="menuitem"><a href="{{ site.baseurl }}/about/"><h3>about</h3></a></div>
-			{% else page.menu == 'about' %}
-			<div class="menuitem"><a href="{{ site.baseurl }}/"><h3>works</h3></a></div>
-			<div class="menuitem"><a href="{{ site.baseurl }}/about/"><h2>about</h2></a></div>
-			{% endif %}
 		</div>
 		
 		<div id="menucontent2">
