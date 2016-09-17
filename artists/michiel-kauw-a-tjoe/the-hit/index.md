@@ -5,8 +5,8 @@ artist:
    name: Michiel Kauw-A-Tjoe
    urlname: michiel-kauw-a-tjoe
 images:
- - large: /works/michiel-the-hit-gomiyama.com-large.jpg
-   small: /works/michiel-the-hit-gomiyama.com-small.jpg
+ - large: /works/michiel-the-hit-michielkauwatjoe.com-large.jpg
+   small: /works/michiel-the-hit-michielkauwatjoe.com-small.jpg
 type: giclee
 ratio: iso
 orientation: portrait

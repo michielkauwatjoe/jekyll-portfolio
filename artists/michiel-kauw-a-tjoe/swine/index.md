@@ -5,8 +5,8 @@ artist:
    name: Michiel Kauw-A-Tjoe
    urlname: michiel-kauw-a-tjoe
 images:
- - large: /works/michiel-swine-gomiyama.com-large.jpg
-   small: /works/michiel-swine-gomiyama.com-small.jpg
+ - large: /works/michiel-swine-michielkauwatjoe.com-large.jpg
+   small: /works/michiel-swine-michielkauwatjoe.com-small.jpg
 type: giclee
 ratio: square
 orientation: square

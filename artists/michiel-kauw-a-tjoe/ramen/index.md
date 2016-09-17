@@ -5,8 +5,8 @@ artist:
    name: Michiel Kauw-A-Tjoe
    urlname: michiel-kauw-a-tjoe
 images:
- - large: /works/michiel-ramen-gomiyama.com-large.jpg
-   small: /works/michiel-ramen-gomiyama.com-small.jpg
+ - large: /works/michiel-ramen-michielkauwatjoe.com-large.jpg
+   small: /works/michiel-ramen-michielkauwatjoe.com-small.jpg
 type: giclee
 ratio: square
 orientation: square

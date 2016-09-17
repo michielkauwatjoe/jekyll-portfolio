@@ -5,8 +5,8 @@ artist:
    name: Michiel Kauw-A-Tjoe
    urlname: michiel-kauw-a-tjoe
 images:
- - large: /works/michiel-dreams-gomiyama.com-large.jpg
-   small: /works/michiel-dreams-gomiyama.com-small.jpg
+ - large: /works/michiel-dreams-michielkauwatjoe.com-large.jpg
+   small: /works/michiel-dreams-michielkauwatjoe.com-small.jpg
 type: giclee
 ratio: iso
 orientation: portrait
