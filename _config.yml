@@ -1,0 +1,93 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Michiel Kauw-A-Tjoe 
+email: info@michielkauwatjoe.com
+description: "Michiel Kauw-A-Tjoe"
+baseurl: ""
+url: "http://www.michielkauwatjoe.com" 
+twitter_username: mwkauwatjoe
+github_username: michielkauwatjoe
+bucket: "http://bucket.michielkauwatjoe.com.s3.amazonaws.com"
+
+# Build settings
+markdown: kramdown
+gems: ['kramdown']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
+
+out: 'Out of stock.'
+ask: 'Available on request!'
+more: 'Out of stock: More on the way!'
+
+prices:
+   xl: 35
+   l: 25
+   m: 20
+   s: 15
+   xs: 10
+   xs-washi: 15
+   shirt: 25
+
+displaynames:
+        xl: 'Extra Large'
+        l: 'Large'
+        m: 'Medium'
+        s: 'Small'
+        xs: 'Extra Small'
+        xs-washi: 'Washi Extra Small'
+
+sizes:
+   prints:
+      letter:
+        m:
+            width: 25 
+            height: 19
+      iso:
+        xl:
+            width: 59.4
+            height: 42
+        l:
+            width: 42
+            height: 29.7
+        m:
+            width: 29.7
+            height: 21
+        s:
+            width: 21
+            height: 14.8
+        xs:
+            width: 14.8
+            height: 10.5
+        xs-washi:
+            width: 14.5
+            height: 10
+      wide:
+        xl:
+            width: 59.4
+            height: 33.4
+        l:
+            width: 42
+            height: 23.6
+        m:
+            width: 29.7
+            height: 16.7
+        s:
+            width: 21
+            height: 11.8
+        xs:
+            width: 14.8
+            height: 8.3
+      square:
+        xl:
+            width: 42
+        l:
+            width: 29.7
+        m:
+            width: 21
+        s:
+            width: 14.8
