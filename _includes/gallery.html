@@ -1,0 +1,13 @@
+<img id='gallerymain' src="{{site.bucket}}{{ page.images[0].large }}"/>
+
+{% if page.images[1] %}
+    {% assign test = true %}
+{% endif %}
+
+{% if test %}
+<div class="gridgallery">
+    {% for i in page.images %}
+    <div class="griditemgallery"><img src="{{site.bucket}}{{i.small}}" onclick='changeImage("{{site.bucket}}{{i.large}}");'/></div>
+    {% endfor %}
+</div>
+{% endif %}

@@ -1,0 +1,51 @@
+{% if page.type == 'giclee' or page.type == 'screenprint'%}
+        {% assign type = 'print' %}
+{% elsif page.type == 'tshirt' %}
+        {% assign type = 'tshirt' %}
+{% endif %}
+
+{% if type == 'print' %}
+
+<h6><strong>Available prints:</strong></h6>
+
+<ul class="pricelist">
+	{% for s in page.stock %}
+        {% assign size = s.size %}
+        {% assign t = site.sizes.prints[page.ratio][s.size] %}
+        
+
+		<li class="product-name"><strong>{{site.displaynames[s.size]}}</strong> €{{site.prices[s.size]}},-</li>
+
+        <li class="product-size">
+
+		{% if page.orientation == 'portrait' %}
+            {{ t.height }} x {{ t.width }} cm
+		{% elsif page.orientation == 'landscape' %}
+            {{ t.width }} x {{ t.height }} cm
+		{% elsif page.orientation == 'square' %}
+            {{ t.width }} x {{ t.width }} cm
+		{% endif %}
+        </li>
+
+        <li class="product-size">
+        <strong>
+		{% if s.amount == 0 %}
+            {{ site.out }}
+		{% elsif s.amount == "more" %}
+            {{ site.more }}
+		{% elsif s.amount == "ask" %}
+            {{ site.ask }}
+		{% else %}
+            In stock: {{ s.amount }} left.
+        {% endif %}
+        </strong>
+        </li>
+
+	{% endfor %}
+</ul>
+
+{% elsif type == 'tshirt' %}
+
+{% endif %}
+
+<p>For order information, please <a href="mailto:info@gomiyama.com">contact us </a>!</p>

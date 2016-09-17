@@ -1,0 +1,218 @@
+body    {   
+	background: $background-color;
+	font-family: $regular-font;
+    font-size: $base-font-size;
+    color: $text-color;
+    overflow-y: scroll;
+    }
+
+h1  {
+	font-family: $light-font;
+    font-size: $base-font-size * 2;
+    margin-bottom: $spacing-unit;
+    }
+
+h2  {
+	font-family: $light-font;
+    font-size: 24px;
+    color: $secondary-color;
+    height: 18px;
+    padding: 2px 0 8px;
+    margin: 0 20px 0 0;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: $secondary-color; 
+    }
+
+h3  {
+	font-family: $light-font;
+    font-size: 24px;
+    color: $secondary-color;
+    height: 18px;
+    padding: 2px 0 9px;
+    margin: 0 20px 0 0;
+    }
+
+h3:hover, h3:active, h3:focus  {
+    padding: 2px 0 8px;
+    color: $secondary-color;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: $secondary-color; 
+    }
+
+h4  {
+	display: block;
+	float: left;
+	font-family: $light-font;
+    font-size: $base-font-size - 2;
+    color:  $secondary-color;
+    margin: 4px 20px 0 0;
+    padding-bottom: 1px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: $secondary-color;
+    width: auto;
+    }
+
+h5  {
+	font-family: $light-font;
+    font-size: $base-font-size * 1.1;
+    color:  $primary-color;
+    padding: 3px 0px;
+    }
+
+h6  {
+	font-family: $regular-font;
+    font-size: $base-font-size - 2px;
+    padding: 3px 0px;
+    }
+
+h7  {
+	display: block;
+	float: left;
+	font-family: $light-font;
+    font-size: $base-font-size - 2;
+    color:  $secondary-color;
+    margin: 4px 20px 0 0;
+    padding-bottom: 1px;
+    }
+
+a h7:hover, a h7:active, a h7:focus  {
+    color: $secondary-color;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: $secondary-color;
+	}
+
+h8  {
+	display: block;
+	float: left;
+	clear: both;
+	font-family: $regular-font;
+    font-size: 18px;
+    color:  $secondary-color;
+	padding-bottom: 1px;
+	margin-bottom: 6px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: $secondary-color;
+    }
+
+h9  {
+	display: block;
+	float: left;
+	clear: both;
+	font-family: $regular-font;
+    font-size: 18px;
+    color:  $secondary-color;
+	margin-bottom: 8px;
+    }
+
+a h9:hover, a h9:active, a h9:focus  {
+	padding-bottom: 1px;
+	margin-bottom: 6px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: $secondary-color;
+	}
+
+p   {
+    font-family: $regular-font;
+    font-size: $base-font-size;
+    line-height: $base-line-height;
+    /* text-align: justify; */
+    margin-bottom: $spacing-unit;
+    } 
+
+.pfirst   {
+    font-size: $base-font-size;
+    font-family: $bold-font;
+    font-weight: normal;
+    } 
+
+.pnojustify   {
+    text-align: left;
+    } 
+
+a   {
+    text-decoration: none;
+    color: $primary-color;
+    }
+
+.hidden {
+    display: none;
+    }
+
+.center {
+    text-align: center;
+    }
+
+.bold, strong	{
+    font-family: $bold-font;
+    font-weight: normal;
+	}
+
+i	{
+	
+	}
+
+/* header */
+
+.header	{
+    display: block;
+    clear: both;
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0 20px 20px;
+	}
+
+.date {
+	display: inline-block;
+	float: right;
+	}
+
+/* divider */
+
+.divider {
+	display: block;
+	clear: both;
+	width: 100%;
+	max-width: $site-width + 40px;
+	margin: auto;
+	padding: 0 20px;
+	box-sizing: border-box;
+	}
+	
+.dividercontent {
+	width: 100%;
+    padding-bottom: $spacing-unit;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: $text-color;
+    box-sizing: border-box;
+    }
+
+/* responsive */
+
+@media (max-width: 680px)   {
+
+    h4, h7	{
+    display: none;
+    }
+}
+
+@media (max-width: 450px)   {
+
+	.header	{
+    padding: 0 0 20px;
+	}
+
+	h5  {
+    font-size: $base-font-size * 1.6;
+    }
+
+	h6  {
+    font-size: $base-font-size;
+    }
+}

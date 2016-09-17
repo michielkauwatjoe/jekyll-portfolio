@@ -1,0 +1,32 @@
+/* content */
+
+#content	{
+    display: block;
+    overflow: auto;
+    width: 100%;
+    background: $secondary-color;
+    }
+    
+.contentcenter	{
+    display: block;
+    max-width: $site-width + 40px;
+    margin: auto;
+	}
+
+.column-1	{
+	float: left;
+    width: 73%;
+	}
+
+.column-2	{
+	float: right;
+    width: 27%;
+    box-sizing: border-box;
+    padding-right: $spacing-unit;
+	}
+
+.contentline	{
+	display: block;
+    overflow: auto;
+	width: 100%;
+	}

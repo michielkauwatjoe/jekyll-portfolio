@@ -1,0 +1,22 @@
+<ul class="sociallinks">
+	{% for link in page.links %}
+    {% assign type = link[0] %}
+    {% assign value = link[1] %}
+
+    <li class="sociallink">
+
+	{% if type contains "website" %}
+    <a href="http://www.{{value}}"><img src="{{site.bucket}}/images/icon-website.svg"/><span>{{value}}</span></a>
+	{% elsif type == "mail" %}
+	{% include mail.html %}
+	{% elsif type == "tumblr" %}
+    <a href="http://{{value}}.tumblr.com/"><img src="{{site.bucket}}/images/icon-{{type}}.svg"/><span>{{value}}</span></a>
+	{% else %}
+    <a href="http://www.{{type}}.com/{{value}}"><img src="{{site.bucket}}/images/icon-{{type}}.svg"/><span>@{{value}}</span></a>
+	{% endif %}
+
+    </li>
+
+    {% endfor %}
+
+</ul>

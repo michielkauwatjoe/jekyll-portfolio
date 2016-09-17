@@ -1,0 +1,249 @@
+/* featured */
+
+#featured	{
+    display: block;
+	background-color: white;
+	width: 100%;
+	padding-bottom: 20px;
+	overflow: auto;
+	}
+
+.featuredblack	{
+    display: block;
+	background-color: #222222;
+	width: 100%;
+	overflow: auto;
+	}
+
+.featuredwhite	{
+    display: block;
+	background-color: white;
+	width: 100%;
+	overflow: auto;
+	}
+
+.screen	{
+	max-width: 1024px;
+	margin: auto;
+	}
+
+.screen img	{
+	width: 100%;
+	}
+
+.screenfixed100	{
+	max-width: 1024px;
+	height: 100px;
+	margin: auto;
+	overflow: hidden;
+	position: relative;
+	}
+
+.screencentered	{
+	width: 3000px;
+	position: absolute;
+	left: 50%;
+	margin-left: -1500px;
+	overflow: auto;
+	}
+
+.screencentered img	{
+	display: block;
+	margin: auto;
+	}
+
+.intrinsic-container {
+    display: block;
+    width: 100%;
+    position: relative;
+    height: 0;
+    padding-bottom: 56.25%;
+    }
+
+.intrinsic-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    }
+
+/* image blocks */
+
+.imageleft	{
+    display: block;
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+    padding: 0 10px 0 20px;
+	}
+
+.imageleft70	{
+    display: block;
+    float: left;
+    width: 70%;
+    box-sizing: border-box;
+    padding: 0 10px 0 20px;
+	}
+
+.imageleft30	{
+    display: block;
+    float: left;
+    width: 33%;
+    box-sizing: border-box;
+    padding: 0 10px 0 20px;
+	}
+
+.imageright	{
+    display: block;
+    float: right;
+    width: 50%;
+    box-sizing: border-box;
+    padding: 0 20px 0 10px;
+	}
+
+.imageright30	{
+    display: block;
+    float: left;
+    width: 33%;
+    box-sizing: border-box;
+    padding: 0 20px 0 10px;
+	}
+
+.imagemid	{
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0 20px 0;
+	}
+
+.imagemid30	{
+    display: block;
+    float: left;
+    width: 33%;
+    box-sizing: border-box;
+    padding: 0 10px;
+	}
+
+.imagemid img, .imagemid30 img, .imageleft img, .imageleft30 img, .imageright img, .imageright30 img, .imageleft70 img	{
+	width: 100%;
+	padding-bottom: 20px;
+	}
+	
+.imagefullwidth	{
+	width: 100%;
+	padding-bottom: 20px;
+	}
+
+.imagecenter	{
+	display: block;
+	margin: auto;
+	padding-bottom: 20px;
+	}
+
+/* text blocks */
+
+.textleft	{
+    display: block;
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+    padding: 0 10px 0 20px;
+	}
+
+.textright	{
+    display: block;
+    float: right;
+	overflow: auto;
+    width: 50%;
+    box-sizing: border-box;
+    padding: 0 20px 0 10px;
+	}
+	
+.textleft70	{
+    display: block;
+    float: left;
+    width: 70%;
+    box-sizing: border-box;
+    padding: 0 10px 0 20px;
+	}
+
+.textright30	{
+    display: block;
+    float: right;
+    width: 30%;
+    box-sizing: border-box;
+    padding: 0 20px 0 10px;
+	}
+	
+.textmid	{
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0 20px 0;
+	}
+
+.textright img, .textright30 img, .textleft img, .textleft70 img, .textmid img	{
+	display: block;
+	float: left;
+	clear: both;
+	max-width: 30%;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	}
+
+/* social links */
+
+.sociallinks	{
+	display: block;
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+	padding-bottom: $spacing-unit;
+	}
+
+.sociallink	{
+	display: block;
+	float: left;
+	clear: both;
+	overflow: hidden;
+	height: 25px;
+	max-width: 300px;
+	padding: 0 0 10px;
+	font-size: 16px
+	}
+
+.sociallink a	{
+	display: block;
+	float: left;
+	}
+
+.sociallink img	{
+	display: block;
+	float: left;
+	margin: 0 5px 0 0;
+	}
+
+.sociallink a span	{
+	display: block;
+	float: left;
+	padding-top: 4.5px;
+	}
+
+/* responsive */
+
+@media (max-width: 680px)   {
+
+	.textleft, .textright, .textleft70, .textright30	{
+    width: 100%;
+    float: none;
+    clear: both;
+    padding: 0 20px;
+	}
+	
+	.imageleft, .imageleft30, .imageleft70, .imageright, .imageright30, .imagemid, .imagemid30	{
+    width: 100%;
+    float: none;
+    padding: 0;
+	}
+}
