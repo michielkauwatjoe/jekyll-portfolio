@@ -1,13 +1,9 @@
 ---
 title: Trash Mountain
 layout: illustration
-menu: menu-artist.html
-artist:
-   name: Michiel Kauw-A-Tjoe
-   urlname: michiel-kauw-a-tjoe
 images:
- - large: /works/michiel-trash-mountain-michielkauwatjoe.com-large.jpg
-   small: /works/michiel-trash-mountain-michielkauwatjoe.com-small.jpg
+ - large: /works/trash-mountain-michielkauwatjoe.com-large.jpg
+   small: /works/trash-mountain-michielkauwatjoe.com-small.jpg
 type: giclee
 orientation: square
 ratio: square

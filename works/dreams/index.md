@@ -1,12 +1,9 @@
 ---
 title: Dreams
 layout: illustration
-artist:
-   name: Michiel Kauw-A-Tjoe
-   urlname: michiel-kauw-a-tjoe
 images:
- - large: /works/michiel-dreams-michielkauwatjoe.com-large.jpg
-   small: /works/michiel-dreams-michielkauwatjoe.com-small.jpg
+ - large: /works/dreams-michielkauwatjoe.com-large.jpg
+   small: /works/dreams-michielkauwatjoe.com-small.jpg
 type: giclee
 ratio: iso
 orientation: portrait

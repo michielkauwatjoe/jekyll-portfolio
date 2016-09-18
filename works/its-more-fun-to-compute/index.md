@@ -1,12 +1,9 @@
 ---
 title: "It's More Fun to Compute"
 layout: illustration
-artist:
-   name: Michiel Kauw-A-Tjoe
-   urlname: michiel-kauw-a-tjoe
 images:
- - large: /works/michiel-its-more-fun-to-compute-michielkauwatjoe.com-large.jpg
-   small: /works/michiel-its-more-fun-to-compute-michielkauwatjoe.com-small.jpg
+ - large: /works/its-more-fun-to-compute-michielkauwatjoe.com-large.jpg
+   small: /works/its-more-fun-to-compute-michielkauwatjoe.com-small.jpg
 type: screenprint 
 ratio: iso
 orientation: portrait
