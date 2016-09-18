@@ -4,7 +4,7 @@ layout: illustration
 images:
  - large: /works/the-undead-michielkauwatjoe.com-large.jpg
    small: /works/the-undead-michielkauwatjoe.com-small.jpg
-type: giclee
+type: piece
 ratio: wide
 orientation: landscape
 stock:
