@@ -1,9 +1,9 @@
 ---
-title: The Hit
+title: Yuki
 layout: illustration
 images:
- - large: /works/the-hit-michielkauwatjoe.com-large.jpg
-   small: /works/the-hit-michielkauwatjoe.com-small.jpg
+ - large: /works/yuki-michielkauwatjoe.com-large.jpg
+   small: /works/yuki-michielkauwatjoe.com-small.jpg
 type: giclee
 ratio: iso
 orientation: portrait
@@ -12,4 +12,4 @@ stock:
    amount: 1
 ---
 
-**Created with color pencils, micron fineliner & Photoshop, 2016.**
+**Created with micron fineliner & Photoshop, 2012.**

@@ -23,6 +23,8 @@
     color: $text-color;
     }
 
+
+
 .griditem a img  { 
     display: block;
     width: 100%;
@@ -42,6 +44,10 @@
     margin: auto;
     padding: 0 15px 10px;
 	}
+
+#griduneven img {
+    border: 1px solid #eee;
+}
 
 .gridwrappersquare {
     display: block;
