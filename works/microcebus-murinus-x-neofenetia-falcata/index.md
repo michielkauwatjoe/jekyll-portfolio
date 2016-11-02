@@ -1,5 +1,5 @@
 ---
-title: Axolotl 
+title: Microcebus murinus × Neofenetia falcata
 layout: illustration
 images:
  - large: /works/microcebus-murinus-x-neofenetia-falcata-michielkauwatjoe.com-large.jpg
