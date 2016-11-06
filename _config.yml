@@ -10,10 +10,10 @@ title: Michiel Kauw-A-Tjoe
 email: info@michielkauwatjoe.com
 description: "Michiel Kauw-A-Tjoe"
 baseurl: ""
-url: "http://www.michielkauwatjoe.com" 
+url: "https://www.michielkauwatjoe.com" 
 twitter_username: mwkauwatjoe
 github_username: michielkauwatjoe
-bucket: "http://bucket.michielkauwatjoe.com.s3.amazonaws.com"
+bucket: "https://michielkauwatjoe.com/images"
 
 # Build settings
 markdown: kramdown

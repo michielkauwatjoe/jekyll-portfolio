@@ -3,9 +3,9 @@
 from os import system
 
 if __name__ == '__main__':
-	execline = 'git --git-dir /var/www/michielkauwatjoe/.git pull'
+	execline = 'git --git-dir /var/www/git/.git pull'
 	system(execline)
-	execline = 'cd /var/www/michielkauwatjoe/'
+	execline = 'cd /var/www/git/'
 	system(execline)
 	execline = 'bundle exec jekyll build'
 	system(execline)
