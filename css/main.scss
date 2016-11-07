@@ -3,7 +3,69 @@
 ---
 @charset "utf-8";
 
-@import url('https://michielkauwatjoe.com/fonts/bariol/style.css');
+@font-face {
+  font-family: 'Bariol Bold';
+  src: url("/fonts/bariol/Bariol_Bold.eot");
+  src: url("/fonts/bariol/Bariol_Bold.eot?#iefix") format('embedded-opentype'), url("/fonts/bariol/Bariol_Bold.woff") format('woff'), url("/fonts/bariol/Bariol_Bold.ttf") format('truetype'), url("/fonts/bariol/Bariol_Bold.svg#Bariol_Bold") format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Bariol Regular';
+  src: url("/fonts/bariol/Bariol_Regular.eot");
+  src: url("/fonts/bariol/Bariol_Regular.eot?#iefix") format('embedded-opentype'), url("/fonts/bariol/Bariol_Regular.woff") format('woff'), url("/fonts/bariol/Bariol_Regular.ttf") format('truetype'), url("/fonts/bariol/Bariol_Regular.svg#Bariol_Regular") format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Bariol Light';
+  src: url("/fonts/bariol/Bariol_Light.eot");
+  src: url("/fonts/bariol/Bariol_Light.eot?#iefix") format('embedded-opentype'), url("/fonts/bariol/Bariol_Light.woff") format('woff'), url("/fonts/bariol/Bariol_Light.ttf") format('truetype'), url("/fonts/bariol/Bariol_Light.svg#Bariol_Light") format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Bariol Thin';
+  src: url("/fonts/bariol/Bariol_Thin.eot");
+  src: url("/fonts/bariol/Bariol_Thin.eot?#iefix") format('embedded-opentype'), url("/fonts/bariol/Bariol_Thin.woff") format('woff'), url("/fonts/bariol/Bariol_Thin.ttf") format('truetype'), url("/fonts/bariol/Bariol_Thin.svg#Bariol_Thin") format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Bariol Bold Italic';
+  src: url("/fonts/bariol/Bariol_Bold_Italic.eot");
+  src: url("/fonts/bariol/Bariol_Bold_Italic.eot?#iefix") format('embedded-opentype'), url("/fonts/bariol/Bariol_Bold_Italic.woff") format('woff'), url("/fonts/bariol/Bariol_Bold_Italic.ttf") format('truetype'), url("/fonts/bariol/Bariol_Bold_Italic.svg#Bariol_Bold_Italic") format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Bariol Regular Italic';
+  src: url("/fonts/bariol/Bariol_Regular_Italic.eot");
+  src: url("/fonts/bariol/Bariol_Regular_Italic.eot?#iefix") format('embedded-opentype'), url("/fonts/bariol/Bariol_Regular_Italic.woff") format('woff'), url("/fonts/bariol/Bariol_Regular_Italic.ttf") format('truetype'), url("/fonts/bariol/Bariol_Regular_Italic.svg#Bariol_Regular_Italic") format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Bariol Light Italic';
+  src: url("/fonts/bariol/Bariol_Light_Italic.eot");
+  src: url("/fonts/bariol/Bariol_Light_Italic.eot?#iefix") format('embedded-opentype'), url("/fonts/bariol/Bariol_Light_Italic.woff") format('woff'), url("/fonts/bariol/Bariol_Light_Italic.ttf") format('truetype'), url("/fonts/bariol/Bariol_Light_Italic.svg#Bariol_Light_Italic") format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Bariol Thin Italic';
+  src: url("/fonts/bariol/Bariol_Thin_Italic.eot");
+  src: url("/fonts/bariol/Bariol_Thin_Italic.eot?#iefix") format('embedded-opentype'), url("/fonts/bariol/Bariol_Thin_Italic.woff") format('woff'), url("/fonts/bariol/Bariol_Thin_Italic.ttf") format('truetype'), url("/fonts/bariol/Bariol_Thin_Italic.svg#Bariol_Thin_Italic") format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
 
 // Variables
 
