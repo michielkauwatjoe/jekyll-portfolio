@@ -7,3 +7,4 @@ mkmf.log
 .DS_Store
 .gitignore
 .sass-cache
+_site
