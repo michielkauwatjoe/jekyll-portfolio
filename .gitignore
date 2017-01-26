@@ -1,0 +1,9 @@
+_site
+.env
+Gemfile.lock
+mkmf.log
+*.iml
+.idea/*
+.DS_Store
+.gitignore
+.sass-cache
