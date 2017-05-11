@@ -9,4 +9,4 @@ ratio: wide
 orientation: landscape
 ---
 
-**Piece made with Montana black spraycans and bucket paint, 2017.**
+**Piece made with Montana Black spraycans and bucket paint, 2017.**
