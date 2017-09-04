@@ -160,14 +160,6 @@
     display: none;
     }
     
-	#menu:active #menuanimate, #menu:hover #menuanimate, #menu:focus #menuanimate	{
-	max-height: $responsive-menu-height + 20px;
-	}
-    
-	#menu:active + #pagemover, #menu:hover + #pagemover, #menu:focus + #pagemover	{
-	padding-top: 111px + $responsive-menu-height;
-	}
-
     .social	{
     float:left;
     padding-bottom: 15px;

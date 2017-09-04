@@ -1,3 +1,17 @@
 <a href="{{site.bucket}}{{page.images[0].large}}" data-lightbox="image-1" data-title="{{page.title}}">
     <img id='gallerymain' src="{{site.bucket}}{{ page.images[0].large }}"/></a>
 
+{% if page.images[1] %}
+    {% assign test = true %}
+{% endif %}
+
+{% if test %}
+<div class="gridgallery">
+    {% for i in page.images %}
+	{% if forloop.index > 1 %}
+    <div class="griditemgallery"><a href="{{site.bucket}}{{i.large}}" data-lightbox="image-1" data-title="{{page.title}}"><img src="{{site.bucket}}{{i.small}}"/></a></div>
+	{% endif %}
+    {% endfor %}
+</div>
+{% endif %}
+
