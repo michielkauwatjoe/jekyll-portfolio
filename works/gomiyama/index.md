@@ -12,4 +12,4 @@ stock:
    amount: 19 
 ---
 
-**Designed with Illustrator together with Laurens Kauw-A-Tjoe for now defunct webshop, 2012.**
+Designed with Illustrator together with Laurens Kauw-A-Tjoe for now defunct webshop, 2012.

@@ -12,4 +12,4 @@ stock:
    amount: 2
 ---
 
-**Oil painting on canvas, 2006.**
+Oil painting on canvas, 2006.

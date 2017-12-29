@@ -9,4 +9,4 @@ ratio:
 orientation: landscape 
 ---
 
-**Illustration made with pencil and paper, Photoshop, 2017.**
+Illustration made with pencil and paper, Photoshop, 2017.

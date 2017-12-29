@@ -15,4 +15,4 @@ ratio: wide
 orientation: landscape
 ---
 
-**Piece made with Montana Black and Belton spraycans at the Kenzy skatepark, Alphen aan den Rijn, 2017.**
+Piece made with Montana Black and Belton spraycans at the Kenzy skatepark, Alphen aan den Rijn, 2017.

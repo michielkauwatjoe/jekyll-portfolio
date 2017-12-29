@@ -9,4 +9,4 @@ ratio:
 orientation: portrait
 ---
 
-**Illustration made with pencil and paper, Posca markers, Photoshop, 2017.**
+Illustration made with pencil and paper, Posca markers, Photoshop, 2017.

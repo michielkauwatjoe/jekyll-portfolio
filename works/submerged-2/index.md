@@ -16,4 +16,4 @@ stock:
    amount: ask
 ---
 
-**Illustration created with pencil, micron fineliner, Photoshop, 2015.**
+Illustration created with pencil, micron fineliner, Photoshop, 2015.

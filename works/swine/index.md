@@ -12,4 +12,4 @@ stock:
    amount: 1
 ---
 
-**Giclée print created with pencil, micron fineliner, Photoshop, 2015.**
+Giclée print created with pencil, micron fineliner, Photoshop, 2015.

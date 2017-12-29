@@ -12,4 +12,4 @@ stock:
    amount: 19 
 ---
 
-**Designed with DrawBot -- hand pulled, signed and numbered using neon inks on BioTop 200 paper, limited edition of 20, 2016.**
+Designed with DrawBot -- hand pulled, signed and numbered using neon inks on BioTop 200 paper, limited edition of 20, 2016.

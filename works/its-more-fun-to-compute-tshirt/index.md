@@ -12,4 +12,4 @@ stock:
    amount: 19 
 ---
 
-**Designed with DrawBot -- hand pulled screenprint with water based inks on organic, fair trade apparel, 2016.**
+Designed with DrawBot -- hand pulled screenprint with water based inks on organic, fair trade apparel, 2016.

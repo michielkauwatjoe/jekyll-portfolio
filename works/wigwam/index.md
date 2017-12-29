@@ -12,4 +12,4 @@ stock:
    amount: 1
 ---
 
-**Created with micron fineliner & Photoshop, 2013.**
+Created with micron fineliner & Photoshop, 2013.

@@ -16,4 +16,4 @@ stock:
    amount: ask
 ---
 
-**Piece made with MTN 94 and Kobra spraypaint, 2015.**
+Piece made with MTN 94 and Kobra spraypaint, 2015.

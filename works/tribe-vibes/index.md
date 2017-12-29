@@ -9,4 +9,4 @@ ratio:
 orientation: landscape 
 ---
 
-**Screenprint made with water based inks on ivory paper (300g), 2017.**
+Screenprint made with water based inks on ivory paper (300g), 2017.

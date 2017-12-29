@@ -16,4 +16,4 @@ stock:
    amount: ask
 ---
 
-**Mural for the Mambo Sarakasi Watoto (Childrens Circus) at <a href="http://www.mamboviewpoint.org">Mambo Viewpoint</a> using local spraypaint and bucket paint, 2016.**
+Mural for the Mambo Sarakasi Watoto (Childrens Circus) at <a href="http://www.mamboviewpoint.org">Mambo Viewpoint</a> using local spraypaint and bucket paint, 2016.

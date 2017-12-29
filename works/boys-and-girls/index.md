@@ -16,4 +16,4 @@ stock:
    amount: ask
 ---
 
-**Giclée print created with pencil, micron fineliner, Photoshop, 2014.**
+Giclée print created with pencil, micron fineliner, Photoshop, 2014.

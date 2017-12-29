@@ -9,4 +9,4 @@ ratio: wide
 orientation: landscape
 ---
 
-**Piece made with Loop, Montana Black and Belton spraycans for the Heart Lane summer jam, Hengelo, 2017.**
+Piece made with Loop, Montana Black and Belton spraycans for the Heart Lane summer jam, Hengelo, 2017.

@@ -12,4 +12,4 @@ stock:
    amount: 2
 ---
 
-**Illustration made with Sumi ink and brush on damaged paper, 2016.**
+Illustration made with Sumi ink and brush on damaged paper, 2016.

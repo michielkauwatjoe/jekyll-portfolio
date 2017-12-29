@@ -12,4 +12,4 @@ stock:
    amount: 2
 ---
 
-**Oil painting on linnen canvas, 2007.**
+Oil painting on linnen canvas, 2007.

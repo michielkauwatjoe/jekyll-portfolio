@@ -9,4 +9,4 @@ ratio: 60x80
 orientation: portrait
 ---
 
-**Painting made with spraycan and stencils on canvas, 2017.**
+Painting made with spraycan and stencils on canvas, 2017.

@@ -23,4 +23,4 @@ ratio: iso
 orientation: portrait
 ---
 
-**Series of eight canvases made with spraypaint, 2017.**
+Series of eight canvases made with spraypaint, 2017.

@@ -16,4 +16,4 @@ stock:
    amount: 1
 ---
 
-**Created with pencil, micron fineliner, Photoshop, 2014.**
+Created with pencil, micron fineliner, Photoshop, 2014.

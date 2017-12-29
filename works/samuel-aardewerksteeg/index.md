@@ -9,4 +9,4 @@ ratio: wide
 orientation: landscape
 ---
 
-**Piece made for the street art route in Alphen aan den Rijn, 2017.**
+Piece made for the street art route in Alphen aan den Rijn, 2017.

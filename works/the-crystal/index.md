@@ -12,4 +12,4 @@ stock:
    amount: 2
 ---
 
-**Illustration made with color pencils and micron pen on Canson Mi-Teintes paper, 2016.**
+Illustration made with color pencils and micron pen on Canson Mi-Teintes paper, 2016.
