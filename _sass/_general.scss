@@ -1,20 +1,20 @@
 body    {   
 	background: $background-color;
     //background-image: url('https://michielkauwatjoe.com/images/pattern.jpg');
-	font-family: $regular-font;
+	font-family: $-font;
     font-size: $base-font-size;
     color: $text-color;
     overflow-y: scroll;
     }
 
 h1  {
-	font-family: $light-font;
+	font-family: $thin-font;
     font-size: $base-font-size * 2;
     margin-bottom: $spacing-unit;
     }
 
 h2  {
-	font-family: $light-font;
+	font-family: $thin-font;
     font-size: 24px;
     color: $secondary-color;
     height: 18px;
@@ -26,7 +26,7 @@ h2  {
     }
 
 h3  {
-	font-family: $light-font;
+	font-family: $thin-font;
     font-size: 24px;
     color: $secondary-color;
     height: 18px;
@@ -45,7 +45,7 @@ h3:hover, h3:active, h3:focus  {
 h4  {
 	display: block;
 	float: left;
-	font-family: $light-font;
+	font-family: $thin-font;
     font-size: $base-font-size - 2;
     color:  $secondary-color;
     margin: 4px 20px 0 0;
@@ -57,14 +57,14 @@ h4  {
     }
 
 h5  {
-	font-family: $light-font;
+	font-family: $thin-font;
     font-size: $base-font-size * 1.1;
     color:  $primary-color;
     padding: 3px 0px;
     }
 
 h6  {
-	font-family: $regular-font;
+	font-family: $light-font;
     font-size: $base-font-size - 2px;
     padding: 3px 0px;
     }
@@ -72,7 +72,7 @@ h6  {
 h7  {
 	display: block;
 	float: left;
-	font-family: $light-font;
+	font-family: $thin-font;
     font-size: $base-font-size - 2;
     color:  $secondary-color;
     margin: 4px 20px 0 0;
@@ -90,7 +90,7 @@ h8  {
 	display: block;
 	float: left;
 	clear: both;
-	font-family: $regular-font;
+	font-family: $light-font;
     font-size: 18px;
     color:  $secondary-color;
 	padding-bottom: 1px;
@@ -104,7 +104,7 @@ h9  {
 	display: block;
 	float: left;
 	clear: both;
-	font-family: $regular-font;
+	font-family: $light-font;
     font-size: 18px;
     color:  $secondary-color;
 	margin-bottom: 8px;
@@ -119,7 +119,7 @@ a h9:hover, a h9:active, a h9:focus  {
 	}
 
 p   {
-    font-family: $regular-font;
+    font-family: $light-font;
     font-size: $base-font-size;
     line-height: $base-line-height;
     /* text-align: justify; */

@@ -4,65 +4,65 @@
 @charset "utf-8";
 
 @font-face {
-  font-family: 'Bariol Bold';
-  src: url("/fonts/bariol/Bariol_Bold.eot");
-  src: url("/fonts/bariol/Bariol_Bold.eot?#iefix") format('embedded-opentype'), url("/fonts/bariol/Bariol_Bold.woff") format('woff'), url("/fonts/bariol/Bariol_Bold.ttf") format('truetype'), url("/fonts/bariol/Bariol_Bold.svg#Bariol_Bold") format('svg');
+  font-family: 'IBMPlexSans Bold';
+  src: url("/fonts/plex/IBMPlexSans-Bold.eot");
+  src: url("/fonts/plex/IBMPlexSans-Bold.eot?#iefix") format('embedded-opentype'), url("/fonts/plex/IBMPlexSans-Bold.woff") format('woff'), url("/fonts/plex/IBMPlexSans-Bold.ttf") format('truetype'), url("/fonts/plex/IBMPlexSans-Bold.svg#IBMPlexSans-Bold") format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Bariol Regular';
-  src: url("/fonts/bariol/Bariol_Regular.eot");
-  src: url("/fonts/bariol/Bariol_Regular.eot?#iefix") format('embedded-opentype'), url("/fonts/bariol/Bariol_Regular.woff") format('woff'), url("/fonts/bariol/Bariol_Regular.ttf") format('truetype'), url("/fonts/bariol/Bariol_Regular.svg#Bariol_Regular") format('svg');
+  font-family: 'IBMPlexSans Regular';
+  src: url("/fonts/plex/IBMPlexSans-Regular.eot");
+  src: url("/fonts/plex/IBMPlexSans-Regular.eot?#iefix") format('embedded-opentype'), url("/fonts/plex/IBMPlexSans-Regular.woff") format('woff'), url("/fonts/plex/IBMPlexSans-Regular.ttf") format('truetype'), url("/fonts/plex/IBMPlexSans-Regular.svg#IBMPlexSans-Regular") format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Bariol Light';
-  src: url("/fonts/bariol/Bariol_Light.eot");
-  src: url("/fonts/bariol/Bariol_Light.eot?#iefix") format('embedded-opentype'), url("/fonts/bariol/Bariol_Light.woff") format('woff'), url("/fonts/bariol/Bariol_Light.ttf") format('truetype'), url("/fonts/bariol/Bariol_Light.svg#Bariol_Light") format('svg');
+  font-family: 'IBMPlexSans Light';
+  src: url("/fonts/plex/IBMPlexSans-Light.eot");
+  src: url("/fonts/plex/IBMPlexSans-Light.eot?#iefix") format('embedded-opentype'), url("/fonts/plex/IBMPlexSans-Light.woff") format('woff'), url("/fonts/plex/IBMPlexSans-Light.ttf") format('truetype'), url("/fonts/plex/IBMPlexSans-Light.svg#IBMPlexSans-Light") format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Bariol Thin';
-  src: url("/fonts/bariol/Bariol_Thin.eot");
-  src: url("/fonts/bariol/Bariol_Thin.eot?#iefix") format('embedded-opentype'), url("/fonts/bariol/Bariol_Thin.woff") format('woff'), url("/fonts/bariol/Bariol_Thin.ttf") format('truetype'), url("/fonts/bariol/Bariol_Thin.svg#Bariol_Thin") format('svg');
+  font-family: 'IBMPlexSans Thin';
+  src: url("/fonts/plex/IBMPlexSans-Thin.eot");
+  src: url("/fonts/plex/IBMPlexSans-Thin.eot?#iefix") format('embedded-opentype'), url("/fonts/plex/IBMPlexSans-Thin.woff") format('woff'), url("/fonts/plex/IBMPlexSans-Thin.ttf") format('truetype'), url("/fonts/plex/IBMPlexSans-Thin.svg#IBMPlexSans-Thin") format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Bariol Bold Italic';
-  src: url("/fonts/bariol/Bariol_Bold_Italic.eot");
-  src: url("/fonts/bariol/Bariol_Bold_Italic.eot?#iefix") format('embedded-opentype'), url("/fonts/bariol/Bariol_Bold_Italic.woff") format('woff'), url("/fonts/bariol/Bariol_Bold_Italic.ttf") format('truetype'), url("/fonts/bariol/Bariol_Bold_Italic.svg#Bariol_Bold_Italic") format('svg');
+  font-family: 'IBMPlexSans Bold Italic';
+  src: url("/fonts/plex/IBMPlexSans-BoldItalic.eot");
+  src: url("/fonts/plex/IBMPlexSans-BoldItalic.eot?#iefix") format('embedded-opentype'), url("/fonts/plex/IBMPlexSans-BoldItalic.woff") format('woff'), url("/fonts/plex/IBMPlexSans-BoldItalic.ttf") format('truetype'), url("/fonts/plex/IBMPlexSans-BoldItalic.svg#IBMPlexSans-BoldItalic") format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Bariol Regular Italic';
-  src: url("/fonts/bariol/Bariol_Regular_Italic.eot");
-  src: url("/fonts/bariol/Bariol_Regular_Italic.eot?#iefix") format('embedded-opentype'), url("/fonts/bariol/Bariol_Regular_Italic.woff") format('woff'), url("/fonts/bariol/Bariol_Regular_Italic.ttf") format('truetype'), url("/fonts/bariol/Bariol_Regular_Italic.svg#Bariol_Regular_Italic") format('svg');
+  font-family: 'IBMPlexSans Regular Italic';
+  src: url("/fonts/plex/IBMPlexSans-RegularItalic.eot");
+  src: url("/fonts/plex/IBMPlexSans-RegularItalic.eot?#iefix") format('embedded-opentype'), url("/fonts/plex/IBMPlexSans-RegularItalic.woff") format('woff'), url("/fonts/plex/IBMPlexSans-RegularItalic.ttf") format('truetype'), url("/fonts/plex/IBMPlexSans-RegularItalic.svg#IBMPlexSans-RegularItalic") format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Bariol Light Italic';
-  src: url("/fonts/bariol/Bariol_Light_Italic.eot");
-  src: url("/fonts/bariol/Bariol_Light_Italic.eot?#iefix") format('embedded-opentype'), url("/fonts/bariol/Bariol_Light_Italic.woff") format('woff'), url("/fonts/bariol/Bariol_Light_Italic.ttf") format('truetype'), url("/fonts/bariol/Bariol_Light_Italic.svg#Bariol_Light_Italic") format('svg');
+  font-family: 'IBMPlexSans Light Italic';
+  src: url("/fonts/plex/IBMPlexSans-LightItalic.eot");
+  src: url("/fonts/plex/IBMPlexSans-LightItalic.eot?#iefix") format('embedded-opentype'), url("/fonts/plex/IBMPlexSans-LightItalic.woff") format('woff'), url("/fonts/plex/IBMPlexSans-LightItalic.ttf") format('truetype'), url("/fonts/plex/IBMPlexSans-LightItalic.svg#IBMPlexSans-LightItalic") format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Bariol Thin Italic';
-  src: url("/fonts/bariol/Bariol_Thin_Italic.eot");
-  src: url("/fonts/bariol/Bariol_Thin_Italic.eot?#iefix") format('embedded-opentype'), url("/fonts/bariol/Bariol_Thin_Italic.woff") format('woff'), url("/fonts/bariol/Bariol_Thin_Italic.ttf") format('truetype'), url("/fonts/bariol/Bariol_Thin_Italic.svg#Bariol_Thin_Italic") format('svg');
+  font-family: 'IBMPlexSans Thin Italic';
+  src: url("/fonts/plex/IBMPlexSans-ThinItalic.eot");
+  src: url("/fonts/plex/IBMPlexSans-ThinItalic.eot?#iefix") format('embedded-opentype'), url("/fonts/plex/IBMPlexSans-ThinItalic.woff") format('woff'), url("/fonts/plex/IBMPlexSans-ThinItalic.ttf") format('truetype'), url("/fonts/plex/IBMPlexSans-ThinItalic.svg#IBMPlexSans-ThinItalic") format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -72,15 +72,15 @@
 $base-font-size:   18px;
 $base-line-height: 20px;
 
-$thin-font: 'Bariol Thin', "Helvetica Neue", Helvetica, Arial, sans-serif;
-$light-font: 'Bariol Light', "Helvetica Neue", Helvetica, Arial, sans-serif;
-$regular-font: 'Bariol Regular', "Helvetica Neue", Helvetica, Arial, sans-serif;
-$bold-font: 'Bariol Bold', "Helvetica Neue", Helvetica, Arial, sans-serif;
+$thin-font: 'IBMPlexSans Thin', "Helvetica Neue", Helvetica, Arial, sans-serif;
+$light-font: 'IBMPlexSans Light', "Helvetica Neue", Helvetica, Arial, sans-serif;
+$regular-font: 'IBMPlexSans Regular', "Helvetica Neue", Helvetica, Arial, sans-serif;
+$bold-font: 'IBMPlexSans Bold', "Helvetica Neue", Helvetica, Arial, sans-serif;
 
-$thin-italic-font: 'Bariol Thin Italic', "Helvetica Neue", Helvetica, Arial, sans-serif;
-$light-italic-font: 'Bariol Light Italic', "Helvetica Neue", Helvetica, Arial, sans-serif;
-$normal-italic-font: 'Bariol Regular Italic', "Helvetica Neue", Helvetica, Arial, sans-serif;
-$bold-italic-font: 'Bariol Bold Italic', "Helvetica Neue", Helvetica, Arial, sans-serif;
+$thin-italic-font: 'IBMPlexSans Thin Italic', "Helvetica Neue", Helvetica, Arial, sans-serif;
+$light-italic-font: 'IBMPlexSans Light Italic', "Helvetica Neue", Helvetica, Arial, sans-serif;
+$normal-italic-font: 'IBMPlexSans Regular Italic', "Helvetica Neue", Helvetica, Arial, sans-serif;
+$bold-italic-font: 'IBMPlexSans Bold Italic', "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 $spacing-unit:     20px;
 $site-width:       1024px;

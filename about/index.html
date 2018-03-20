@@ -6,29 +6,28 @@ layout: general
 	<div class="contentcenter">
 
         <div class="imageleft">
-            <img src="{{site.bucket}}/avatar-large.jpg"/>
+            <img src="{{site.bucket}}/avatar.png"/>
         </div>
 
         <div class="textright">
 	    <h1>About</h1>
 
-            <p>Typography software developer, illustrator &amp; music maniac from Alphen aan den Rijn, The Netherlands.</p>
+            <p>Software developer for Type Network, illustrator &amp; music maniac from Alphen aan den Rijn, The Netherlands.</p>
 
             <h1>On the Net</h1>
 
-            <p><ul>
+            <p><ul type='disc'>
                 <li><a href="http://www.github.com/michielkauwatjoe">GitHub</a></li>
-                <li><a href="http://stackoverflow.com/users/1966868/michiel-kauw-a-tjoe">stack<b>overflow</b></a></li>
                 <li><a href="http://www.instagram.com/michielkauwatjoe">Instagram</a></li>
-                <li><a href="https://soundcloud.com/michielkauwatjoe">SoundCloud</a></li>
-                <li><a href="http://www.behance.com/michielkauwatjoe">Bēhance</a></li>
-                <li><a href="http://michielkauwatjoe.tumblr.com/">Tumblr</a></li>
+                <li><a href="https://soundcloud.com/clearwaterbay-bcst-ltd">SoundCloud</a></li>
                 <li><a href="http://www.twitter.com/mwkauwatjoe">Twitter</a></li>
+                <li><a href="http://stackoverflow.com/users/1966868/michiel-kauw-a-tjoe">stack<b>overflow</b></a></li>
             </ul></p>
 
             <h1>Exhibitions & Events</h1>
 
-            <p><ul>
+            <p><ul type='disc'>
+                <li>“Bigger Than...” group exhibition, <a href="https://www.instagram.com/enfantterrible_shop/">Enfant Terrible</a> concept store and gallery, Rotterdam, April 6-..., 2018</li>
                 <li>Mural and group exhibition for the Open Art Route, Alphen aan den Rijn, November 3-5, 2017</li>
                 <li>Art market at the <a href="http://kingsofcolors.com/">Kings of Colors</a> festival, Den Bosch, September 9th, 2017</li>
                 <li>Art market at the <a href=http://www.heartgallery.info/news/item/13/heartlanestreet-art-17-juni-tm-9-juli">HeArtlane Street Art Festival</a>, Hengelo, June 25th, 2017</li>
@@ -52,43 +51,8 @@ layout: general
 
             <p><ul>
                 <li>michiel (at) kauwatjoe (dot) com</li>
-                <li>(+31) (0) 618984214</li>
-                <li>Juliana van Stolbergstraat 121</li>
-                <li>2404CZ Alphen aan den Rijn</li>
-                <li>The Netherlands</li>
             </ul></p>
 
-            <p>
-
-<script src='https://maps.googleapis.com/maps/api/js?key=AIzaSyAssGmQf3BUkQBh--luqBuWyjF8Qw9T3Pk'></script>
-<div style='overflow:hidden;height:500px;width:500px;'>
-<div id='gmap_canvas' style='height:500px;width:500px;'></div>
-
-<style>
-#gmap_canvas img{max-width:none!important;background:none!important}
-</style>
-</div>
-
-<script type='text/javascript'>
-
-function init_map(){
-	var myOptions = {
-		zoom:10, center: new google.maps.LatLng(52.1349416,4.652345999999966), mapTypeId: google.maps.MapTypeId.ROADMAP
-	};
-
-	map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);
-	marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(52.1349416,4.652345999999966)});
-	infowindow = new google.maps.InfoWindow({content:'Juliana van Stolbergstraat 121 Alphen a/d Rijn<br>'});
-	google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});
-	infowindow.open(map,marker);
-}
-
-google.maps.event.addDomListener(window, 'load', init_map);
-</script>
-
-
-
-            </p>
 		</div>
 
 	</div>
