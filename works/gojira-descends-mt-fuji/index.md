@@ -1,5 +1,5 @@
 ---
-title: Force of the Imperial Master
+title: Gojira Descends Mt. Fuji
 layout: illustration
 images:
  - large: /works/gojira-descends-mt-fuji-michielkauwatjoe.com-large.jpg
