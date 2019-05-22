@@ -2,8 +2,8 @@
 title: ゴジラ Gojira
 layout: illustration
 images:
- - large: /works/gojira-michielkauwatjoe.com-large.jpg
-   small: /works/gojira-michielkauwatjoe.com-small.jpg
+ - large: /works/gojira-fullcolor-michielkauwatjoe.com-large.jpg
+   small: /works/gojira-fullcolor-michielkauwatjoe.com-small.jpg
 type: 
 ratio: iso
 orientation: portrait
