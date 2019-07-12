@@ -6,7 +6,7 @@ images:
    small: /works/gojira-fullcolor-michielkauwatjoe.com-small.jpg
 type: 
 ratio: iso
-orientation: portrait
+orientation: landscape
 stock:
  - size: l 
    amount: 1
